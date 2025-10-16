@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Andre/OneDrive/Documentos/NetBeansProjects/Alquiler/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/Andre/OneDrive/Documentos/NetBeansProjects/Alquiler/src/Modelos/Cliente.java</file>
+            <file>file:/C:/Users/Andre/OneDrive/Documentos/NetBeansProjects/Alquiler/src/Modelos/Libro.java</file>
+            <file>file:/C:/Users/Andre/OneDrive/Documentos/NetBeansProjects/Alquiler/src/Logica/LibroController.java</file>
+            <file>file:/C:/Users/Andre/OneDrive/Documentos/NetBeansProjects/Alquiler/src/Interfaces/ClienteInterfaz.java</file>
+            <file>file:/C:/Users/Andre/OneDrive/Documentos/NetBeansProjects/Alquiler/src/Controladoras/ControladoraCliente.java</file>
+            <file>file:/C:/Users/Andre/OneDrive/Documentos/NetBeansProjects/Alquiler/src/alquiler/Alquiler.java</file>
+            <file>file:/C:/Users/Andre/OneDrive/Documentos/NetBeansProjects/Alquiler/src/Interfaces/ClienteEditable.java</file>
+            <file>file:/C:/Users/Andre/OneDrive/Documentos/NetBeansProjects/Alquiler/src/Controladoras/ControladoraLibro.java</file>
+        </group>
+    </open-files>
+</project-private>
